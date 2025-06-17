@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @swathimshetty19
-- 👀 I’m interested in Full stack development and building efficient data intensive cloud based applications.
-- 🌱 I’m currently learning Azure resources,c#,python, databricks and spark.
-- 💞️ I’m looking to collaborate on projects building scalable solutions.
-- 📫 How to reach me - email swathimshetty19@gmail.com
+# 👋 Hi, I'm Swathi M
 
-<!---
-swathimshetty19/swathimshetty19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Incoming Master of Engineering (M.Eng) student at **Cornell University**, specializing in **Machine Learning Systems (MLSys)**  
+💻 Previously @ Microsoft (Bing) — built scalable, multi-cluster inference pipelines on **Azure Kubernetes Service (AKS)** using **Golang** and **Kubernetes**  
+🔬 Passionate about designing **resilient backend systems**, **distributed training frameworks**, and **infra-aware ML platforms**
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, Golang, C++, Bash  
+- **ML:** PyTorch, TensorFlow, Faiss, BERT  
+- **Systems:** Docker, Kubernetes, Prometheus, Redis, Kafka  
+- **Cloud:** Azure, GCP, Firebase
+
+---
+
+## 📫 Get in Touch
+
+- 🧠 [LinkedIn](https://www.linkedin.com/in/swathi-m-55a179186/)
+- 💌 swathimshetty19@gmail.com
+
+---
+
+### ⚡ Fun fact:
+I love combining **systems engineering with ML performance** — from dynamic schedulers to autoscaling model pipelines. Currently exploring academic research and open-source collabs in MLSys!
