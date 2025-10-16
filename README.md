@@ -17,8 +17,8 @@
 
 ## 📫 Get in Touch
 
-- 🧠 [LinkedIn](https://www.linkedin.com/in/swathi-m-55a179186/)
-- 💌 swathimshetty19@gmail.com
+- 🧠 [LinkedIn](https://www.linkedin.com/in/swathimurali19/)
+- 💌 swathimshetty19@gmail.com / sm3223@cornell.edu
 
 ---
 
